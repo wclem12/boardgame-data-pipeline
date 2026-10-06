@@ -49,4 +49,4 @@ The data is a snapshot from around 2021 to early 2022, so recent games are not i
 - [ ] Test the chatbot against known answers
 
 ## Author
-Will. See my [GitHub profile](https://github.com/your-username) for more about me.
+Will. See my [GitHub profile](https://github.com/wclem12) for more about me.
