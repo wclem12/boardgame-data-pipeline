@@ -12,6 +12,8 @@ A learning project where I build a small end-to-end data pipeline on board game 
 - Keep everything version controlled in Git
 - Learn to use an AI coding assistant deliberately: write first, review with AI, check every change
 
+See [notes/questions.md](notes/questions.md) for the questions this project is built to answer.
+
 ## Data
 Source: *[dataset name and Kaggle link: add once chosen]*
 
