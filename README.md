@@ -15,10 +15,11 @@ A learning project where I build a small end-to-end data pipeline on board game 
 See [notes/questions.md](notes/questions.md) for the questions this project is built to answer.
 
 ## Data
-Source: *[dataset name and Kaggle link: add once chosen]*
+Source: [Board Games on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/board-games), originally from BoardGameGeek via the TidyTuesday project (January 2022).
 
-- License and credit: *[add after checking the dataset page]*
-- Collection date: *[add]*
+- License: CC0 (Public Domain) on Kaggle. The underlying data comes from BoardGameGeek, which is credited here as the source.
+- Collection date: around January 2022
+- Files: `ratings.csv` and `details.csv`, joined on `id`
 
 The raw files are not stored in this repo. Download them from Kaggle to run the project.
 
