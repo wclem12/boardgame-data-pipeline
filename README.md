@@ -55,8 +55,8 @@ The raw files are not stored in this repo. Download them from Kaggle to run the 
 
 ## Progress
 - [x] Complete GitHub courses (Introduction to GitHub, Introduction to Git, Markdown)
-- [ ] Choose a dataset
-- [ ] Explore the dataset with pandas
+- [x] Choose a dataset
+- [x] Explore the dataset with pandas
 - [ ] Complete Claude Code 101
 - [ ] Complete dbt Fundamentals course
 - [ ] Add `CLAUDE.md` to the repo
